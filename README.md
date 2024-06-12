@@ -13,4 +13,4 @@
 - Get domain
 - Add logo/icon
 - rename project in git
-test
+test2
