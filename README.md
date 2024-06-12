@@ -1,15 +1,15 @@
-### Alex Park's Personal Portfolio Website
+# Alex Park's Personal Portfolio Website
 
 ## To-Do:
-# Essential:
+### Essential:
 - Add intro section (short bio and photo), including interests
 - Add links to linkedin, github, email, resume, instagram?
-# Styling:
+### Styling:
 - Font
 - Buttons
 - Text animation
 - Scrolling effects?
-# Other:
+### Other:
 - Get domain
 - Add logo/icon
 - rename project in git
