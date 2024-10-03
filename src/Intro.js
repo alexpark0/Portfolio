@@ -5,7 +5,7 @@ function Intro() {
     <div className="Intro">
         <div className="Selfie">
             <img
-                src="self.jpeg"
+                src="birthday.png"
                 alt="self"
                 width="400"
                 height="400"
