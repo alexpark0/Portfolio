@@ -2,18 +2,15 @@
     text-align: center;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(240, 213, 180);
+    background-color: #417047;
   }
   
   .Nav-button {
-    border-radius: 50px;
-    border: 3px solid transparent;
-    padding: 0.3em 0.5em;
-    margin: 16px;
+    padding: 16px;
     font-size: 1.5em;
     font-weight: 350;
     font-family: inherit;
-    background-color: #157527;
+    background-color: #453b34;
     cursor: pointer;
     transition: border-color 0.5s;
   }
@@ -23,11 +20,10 @@
   }
 
   .Nav-icon {
-    margin: 12px;
     padding: 12px;
-    font-size: 1.5em;
-    font-weight: 350;
-    font-family: inherit;
     cursor: pointer;
-    transition: border-color 0.5s;
+  }
+
+  .Right-divs {
+    display: flex;
   }
