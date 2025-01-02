@@ -17,7 +17,6 @@ function Intro() {
             <h3>I'm an aspiring software engineer pursuing a Bachelor of Science in 
                 Computer Science at Northeastern University. I'm currently in my second year
                 at Northeastern, interning for Revvity during the summer. </h3>
-            <h3></h3>
         </div>
     </div>
   );

@@ -1,10 +1,8 @@
 .Nav {
     text-align: center;
     display: flex;
-    padding: 16px;
-    margin: 16px;
-    border-bottom: 1px solid;
     justify-content: space-between;
+    background-color: rgb(240, 213, 180);
   }
   
   .Nav-button {
@@ -15,7 +13,7 @@
     font-size: 1.5em;
     font-weight: 350;
     font-family: inherit;
-    background-color: #1a852e;
+    background-color: #157527;
     cursor: pointer;
     transition: border-color 0.5s;
   }
@@ -25,12 +23,11 @@
   }
 
   .Nav-icon {
-    padding: 0.3em 0.5em;
-    margin: 16px;
+    margin: 12px;
+    padding: 12px;
     font-size: 1.5em;
     font-weight: 350;
     font-family: inherit;
-    background-color: #1a852e;
     cursor: pointer;
     transition: border-color 0.5s;
   }
