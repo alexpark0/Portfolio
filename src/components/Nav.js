@@ -10,10 +10,14 @@ function Nav() {
             <a className="Nav-button"> Projects </a>
 
             <a className="Nav-icon" href="https://linkedin.com/in/alex-park-"> 
-              <img src="linkedin.png"></img>
+              <img src="linkedin.png"
+                  width="35"
+                  height="35"></img>
             </a>
             <a className="Nav-icon" href="https://github.com/alexpark0"> 
-              <img src="github.png"></img>
+              <img src="github.png"
+                  width="35"
+                  height="35"></img>
             </a>
           </div>
       </nav>
