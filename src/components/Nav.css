@@ -12,11 +12,12 @@
     font-weight: 350;
     font-family: inherit;
     cursor: pointer;
-    transition: border-color 0.5s;
+    transition: color 0.5s;
+    color: rgb(62, 49, 37);
   }
   
   .Nav-button:hover {
-    border-color: rgb(246, 181, 255);
+    color: rgb(246, 181, 255);
   }
 
   .Nav-icon {
