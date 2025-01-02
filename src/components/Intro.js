@@ -20,11 +20,12 @@ function Intro() {
                 and discovering new restaurants and cafes (open to recs!).
             </h3>
             <div className="Music">
-              
+              <div>My top song in 2024: </div>
+              <iframe src="https://open.spotify.com/embed/track/2fhOljbX79loRcdl47SFye?utm_source=generator&theme=0" 
+              width="100%" height="80" frameBorder="0" allowfullscreen="" 
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
             </div>
-            <iframe src="https://open.spotify.com/embed/track/2fhOljbX79loRcdl47SFye?utm_source=generator&theme=0" 
-            width="100%" height="80" frameBorder="0" allowfullscreen="" 
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
         </div>
     </div>
   );

@@ -3,12 +3,11 @@ import './Nav.css';
 function Nav() {
   return (
       <nav className="Nav">
-        <a className="Nav-div"> Home </a>
+        <a className="Nav-button"> Home </a>
           <div className="Right-divs">
-            <a className="Nav-div"> Resume </a>
-            <a className="Nav-div"> Contact </a>
-            <a className="Nav-div"> Experience </a>
-            <a className="Nav-div"> Projects </a>
+            <a className="Nav-button" href="Alexander Park Resume.pdf" download="Alexander Park Resume.pdf"> Resume </a>
+            <a className="Nav-button"> Experience </a>
+            <a className="Nav-button"> Projects </a>
 
             <a className="Nav-icon" href="https://linkedin.com/in/alex-park-"> 
               <img src="linkedin.png"></img>

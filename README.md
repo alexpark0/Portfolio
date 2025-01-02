@@ -2,15 +2,14 @@
 
 ## To-Do:
 ### Essential:
-- Add intro section (short bio and photo), including interests
-- Add links to linkedin, github, email, resume, instagram?
+- Make navbar buttons work
+- Add experiences/projects
 ### Styling:
 - Font
 - Buttons
 - Text animation
-- Scrolling effects?
+- Scrolling effects
 ### Other:
-- Get domain
 - Add logo/icon
-- rename project in git
-test2
+- Display last song listened to on Spotify
+- Rename project in git
