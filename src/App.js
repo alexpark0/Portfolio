@@ -1,5 +1,7 @@
 import Nav from './components/Nav';
 import Intro from './components/Intro';
+import Experience from './components/Experience';
+
 import './App.css';
 
 function App() {
@@ -7,6 +9,7 @@ function App() {
     <div className="App">
       <Nav />
       <Intro />
+      <Experience />
     </div>
   );
 }
